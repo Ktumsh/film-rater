@@ -1,0 +1,4 @@
+1. Hacer la UI/UX del layout (interterfaz de usuario)
+ -- Header / navbar
+ -- Menú desplegable
+ -- 
